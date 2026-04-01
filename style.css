@@ -140,6 +140,11 @@ ul li a {
   transition: background 0.2s;
 }
 
+element {
+  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+}
+
 /* pseudo-selector */
 ul li a:hover {
   background: var(--surface-color-hover);
