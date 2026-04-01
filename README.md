@@ -18,7 +18,7 @@ Projeto exclusivo e gratuito, promovido por Gil para o próprio ensino de tecnol
 <br>
 
 <p align="center">
-  <img alt="Projeto Gil Links" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Gil Links" src=".github/Screenshot 2026-04-01 081958.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
--Figma
+  -Figma
 
 ## 💻 Projeto
 
@@ -45,4 +45,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Gil :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
 # PRO-MG-LINKS
