@@ -13,7 +13,7 @@
   --highlight-color: rgba(255, 255, 255, 0.2);
   --switch-bg-url: url(./assets2/assets/moon-stars.svg);
 }
-
+ /*update*/
 .light {
   --text-color: black;
   --bg-url: url(./assets/bg-mobile-light.jpg);
